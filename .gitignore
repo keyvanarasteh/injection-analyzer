@@ -3,3 +3,6 @@
 .mcp.json
 .opencode
 .codex
+
+# Lat-generated local cache and parsed-document artifacts
+lat.md/.cache/
